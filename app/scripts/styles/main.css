@@ -1,0 +1,16 @@
+html, body {
+	margin: 5px;
+	height: 100%;
+	width: 100%;
+}
+
+
+.panel {
+	display: inline-block;
+	width: 100%;
+
+}
+
+li {
+	color: #666;
+}
